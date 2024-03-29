@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Collei-Cpp", "Collei-Cpp\Collei-Cpp.vcxproj", "{BA7D10FA-D021-4D49-A2DD-B7C28208669C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA7D10FA-D021-4D49-A2DD-B7C28208669C}.Debug|x64.ActiveCfg = Debug|x64
+		{BA7D10FA-D021-4D49-A2DD-B7C28208669C}.Debug|x64.Build.0 = Debug|x64
+		{BA7D10FA-D021-4D49-A2DD-B7C28208669C}.Debug|x86.ActiveCfg = Debug|Win32
+		{BA7D10FA-D021-4D49-A2DD-B7C28208669C}.Debug|x86.Build.0 = Debug|Win32
+		{BA7D10FA-D021-4D49-A2DD-B7C28208669C}.Release|x64.ActiveCfg = Release|x64
+		{BA7D10FA-D021-4D49-A2DD-B7C28208669C}.Release|x64.Build.0 = Release|x64
+		{BA7D10FA-D021-4D49-A2DD-B7C28208669C}.Release|x86.ActiveCfg = Release|Win32
+		{BA7D10FA-D021-4D49-A2DD-B7C28208669C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BB1F4DA-66D7-4228-9454-2FB1FD91C499}
+	EndGlobalSection
+EndGlobal
