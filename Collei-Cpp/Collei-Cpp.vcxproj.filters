@@ -290,9 +290,6 @@
     <ClInclude Include="dependencies\include\dpp-10.0\dpp\nlohmann\json_fwd.hpp">
       <Filter>DPP\nlohmann</Filter>
     </ClInclude>
-    <ClInclude Include="botToken.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Collei.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -300,6 +297,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="events.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="botToken.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
